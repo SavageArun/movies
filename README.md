@@ -4,7 +4,7 @@
 
 Welcome to the Movie App, your one-stop destination for discovering and enjoying movies! 🍿
 
-![Movie App Screenshot](screenshot.png)
+![Movie App Screenshot](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQILXTmnIyluYNepSQEjQGF70rIr2pmTQpiPA&usqp=CAU)
 
 ## About
 The Movie App is a web application that allows you to explore a vast collection of movies. It's based on the TMDB API 🌐, which provides up-to-date movie information.
